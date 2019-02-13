@@ -1,2 +1,4 @@
 # PackagingControl
 封装一些常用的控件，比如button，label等
+
+<img scr="http://thyrsi.com/t6/670/1550050448x2890149584.png" width="200" height="300" alt="快照" />
