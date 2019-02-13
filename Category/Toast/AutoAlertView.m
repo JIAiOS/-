@@ -10,6 +10,8 @@
 #import "NSString+LY.h"
 #import <QuartzCore/QuartzCore.h>
 
+
+
 @implementation AutoAlertView
 
 - (id)initWithFrame:(CGRect)frame
