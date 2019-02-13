@@ -1,3 +1,3 @@
 # PackagingControl
 封装一些常用的控件，比如button，label等
-![快照](http://thyrsi.com/t6/670/1550050448x2890149584.png)
+![快照](https://github.com/JIAiOS/PackagingControl/blob/master/Image/WX20190213-172639%402x.png)
